@@ -11,11 +11,11 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Shivam Singh — Frontend Engineer",
+  title: "Vikas Gupta — Frontend Engineer",
   description:
     "Frontend Engineer, currently at Zestgeek Solution Mohali. Focused on problem solving and experiences.",
   generator: "Next.js",
-  applicationName: "Victor Williams",
+  applicationName: "Portfolio",
   keywords: [
     "freelance",
     "developer",
@@ -37,11 +37,11 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Shivam Singh — Frontend Engineer",
+    title: "Vikas Gupta — Frontend Engineer",
     description:
       "Frontend Engineer, React JS developer based in Chandigarh India.",
-    url: "https://www.shivamonweb.netlify.app/",
-    siteName: "www.shivamonweb.netlify.app",
+    url: "https://portfolio-zeta-three-36.vercel.app/",
+    siteName: "https://portfolio-zeta-three-36.vercel.app/",
     // images: [
     //   {
     //     url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
