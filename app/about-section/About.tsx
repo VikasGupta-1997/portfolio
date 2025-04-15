@@ -51,7 +51,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "NextJS, Typescript, React, Javascript, Expressjs, Nodejs, GraphQL, Redux, Tailwind, Chakra ui, Chrome extentions"
+                  "NextJS, Typescript, React, Javascript, Expressjs, Nodejs, GraphQL, Redux, Redux-saga, Tailwind, ShadeCn, Chakra ui, Chrome extentions"
                 }
               />
             </div>
